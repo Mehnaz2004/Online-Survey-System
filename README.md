@@ -1,4 +1,4 @@
-# Survey System
+#Terminal-Based Survey System Using Java
 
 ## Overview
 
